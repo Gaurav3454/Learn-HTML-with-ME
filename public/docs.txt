@@ -11,3 +11,52 @@ heading h1-h6 and seo
 html components
 tables rolspan colspan
 all important tags or tags which are used most segmentic tags.
+
+
+# What is HTML?
+
+HTML, or Hypertext Markup Language, is the standard code for creating and structuring web content. Using tags enclosed in angle brackets, it defines elements like headings, paragraphs, and links. HTML forms the basic structure of web pages and is crucial for web development, working alongside CSS and JavaScript.
+
+=============================================================================================================================================
+# HTML Versions:
+
+Here are some key versions of HTML and their respective years of release:
+HTML 2.0: Released in 1995.
+HTML 3.2: Released in 1997.
+HTML 4.0: Released in 1997.
+HTML 4.01: Released in 1999.
+XHTML 1.0: Released in 2000.
+HTML5: W3C First Public Working Draft in 2008, Recommendation in 2014.
+HTML5 is the latest major version and is widely used in modern web development. Keep in mind that HTML evolves, and new features and improvements continue to be introduced.
+
+=============================================================================================================================================
+# What is the basic structure of HTML?
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Document Title</title>
+</head>
+
+<body>
+
+    <!-- Content goes here -->
+
+</body>
+
+</html>
+
+Here is the explaination for every Tag:
+
+<!DOCTYPE html>: Declares the HTML version.
+<html>: The root element.
+<head>: Contains metadata about the document.
+<meta charset="UTF-8">: Defines the character set.
+<meta name="viewport" content="width=device-width, initial-scale=1.0">: Configures the viewport for responsive design.
+<title>: Sets the title of the document.
+<body>: Contains the content of the document.
+"Content such as text, images, links, etc. goes between the opening <body> and closing </body> tags.
+This structure provides the basic foundation for a webpage. You can add more elements within the <body> to create a complete and interactive web page."
