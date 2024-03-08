@@ -4,3 +4,10 @@ Hello everyone we will be starting with HTML.
 
 
 HTML: HyperText Markup Language
+Here are topic we will go through in this documentry.
+what is html ?
+all basic html structure
+heading h1-h6 and seo
+html components
+tables rolspan colspan
+all important tags or tags which are used most segmentic tags.
