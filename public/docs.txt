@@ -60,3 +60,38 @@ Here is the explaination for every Tag:
 <body>: Contains the content of the document.
 "Content such as text, images, links, etc. goes between the opening <body> and closing </body> tags.
 This structure provides the basic foundation for a webpage. You can add more elements within the <body> to create a complete and interactive web page."
+
+=============================================================================================================================================
+What are Semantic tags in HTML?
+
+Semantic tags in HTML are designed to add meaning to the content they surround, making the structure of the document more understandable. Here are some common semantic tags used within the <body> of an HTML document:
+
+<header>:
+Definition: Represents the header of a section or a page.
+Example: <header><h1>Website Title</h1></header>
+
+<nav>:
+Definition: Contains navigation links.
+Example: <nav><a href="/">Home</a> | <a href="/about">About</a></nav>
+
+<main>:
+Definition: Contains the main content of the document.
+Example: <main><h2>Main Content</h2><p>This is the main content.</p></main>
+
+<article>:
+Definition: Represents a self-contained piece of content that could be distributed and reused independently.
+Example: <article><h3>Article Title</h3><p>Article content goes here.</p></article>
+
+<section>:
+Definition: Represents a thematic grouping of content, typically with a heading.
+Example: <section><h2>Section Title</h2><p>Section content goes here.</p></section>
+
+<aside>:
+Definition: Represents content that is tangentially related to the content around it, such as a sidebar.
+Example: <aside><h3>Related Content</h3><p>Additional information.</p></aside>
+
+<footer>:
+Definition: Represents the footer of a section or a page.
+Example: <footer>&copy; 2024 Your Name</footer>
+
+=============================================================================================================================================
