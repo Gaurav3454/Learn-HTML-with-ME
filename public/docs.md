@@ -13,8 +13,6 @@ all important tags or tags which are used most segmentic tags.
 
 HTML, or Hypertext Markup Language, is the standard code for creating and structuring web content. Using tags enclosed in angle brackets, it defines elements like headings, paragraphs, and links. HTML forms the basic structure of web pages and is crucial for web development, working alongside CSS and JavaScript.
 
-=============================================================================================================================================
-
 # HTML Versions:
 
 Here are some key versions of HTML and their respective years of release:
