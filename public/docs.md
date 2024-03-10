@@ -1,4 +1,4 @@
-#Hello everyone we will be starting with HTML.
+# Hello everyone we will be starting with HTML.
 
 HTML: HyperText Markup Language
 Here are topic we will go through in this documentry.
