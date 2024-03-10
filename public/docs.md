@@ -28,26 +28,10 @@ HTML5 is the latest major version and is widely used in modern web development. 
 
 # What is the basic structure of HTML?
 
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your Document Title</title>
-</head>
-
-<body>
-
-    <!-- Content goes here -->
-
-</body>
-
-</html>
-
 Here is the explaination for every Tag:
 
-<!DOCTYPE html>: Declares the HTML version.
+**<!DOCTYPE html>**: Declares the HTML version.
+
 <html>: The root element.
 <head>: Contains metadata about the document.
 <meta charset="UTF-8">: Defines the character set.
