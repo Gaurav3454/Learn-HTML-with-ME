@@ -1,7 +1,4 @@
-==============================================
-Hello everyone we will be starting with HTML.
-==============================================
-
+#Hello everyone we will be starting with HTML.
 
 HTML: HyperText Markup Language
 Here are topic we will go through in this documentry.
@@ -12,12 +9,12 @@ html components
 tables rolspan colspan
 all important tags or tags which are used most segmentic tags.
 
-
 # What is HTML?
 
 HTML, or Hypertext Markup Language, is the standard code for creating and structuring web content. Using tags enclosed in angle brackets, it defines elements like headings, paragraphs, and links. HTML forms the basic structure of web pages and is crucial for web development, working alongside CSS and JavaScript.
 
 =============================================================================================================================================
+
 # HTML Versions:
 
 Here are some key versions of HTML and their respective years of release:
@@ -30,6 +27,7 @@ HTML5: W3C First Public Working Draft in 2008, Recommendation in 2014.
 HTML5 is the latest major version and is widely used in modern web development. Keep in mind that HTML evolves, and new features and improvements continue to be introduced.
 
 =============================================================================================================================================
+
 # What is the basic structure of HTML?
 
 <!DOCTYPE html>
@@ -134,11 +132,9 @@ Properly used heading tags improve accessibility for users with screen readers.
 Accessibility is a factor that search engines consider in their ranking algorithms.
 Avoiding Keyword Stuffing:
 
-
 While keywords are important, avoid stuffing headings with keywords unnaturally.
 Use headings to genuinely structure your content and provide meaningful information.
 Remember that SEO is a holistic process, and while heading tags are essential, other factors like quality content, page load speed, mobile-friendliness, and backlinks also contribute to a page's search engine ranking. Focus on creating high-quality, well-organized content that meets the needs of your audience.
 
 =============================================================================================================================================
 What are tables in HTML?
-
